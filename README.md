@@ -1,4 +1,4 @@
-# Dialogue-System v1.12
+# Dialogue-System v1.20
 A dialogue system for GameMaker Studio 2, created by Friendly Cosmonaut.
 
 # Documentation
